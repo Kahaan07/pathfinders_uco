@@ -90,18 +90,5 @@ You can also dive into the following resources:
 
 - [Reducing Bias in Credit Scoring with Generative Al](https://www.mongodb.com/blog/post/credit-scoring-applications-with-generative-ai)
 
-## Disclaimer
-
-This product is not a MongoDB official product. Use at your own risk!
-
-## Authors
-
-- Ashwin Gangadhar, Solutions Architect, Partner Solutions, MongoDB
-- Wei You Pan, Global Director, Financial Industry Solutions, MongoDB
-- Paul Claret, Senior Specialist, Industry Solutions, MongoDB
-
-Feel free to refer to [the original repo](https://github.com/ashwin-gangadhar-mdb/mdb-bfsi-genai/tree/main/) for more content like this one.
-
-## 📄 License
-
-See [LICENSE](LICENSE) file for details.
+## Refrence models and solution ispired from 
+- Ashwin Gangadhar, Solutions Architect, Partner Solutions, MongoDB Product 
